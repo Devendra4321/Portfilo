@@ -10,3 +10,7 @@ document.querySelectorAll('.btn')[1].addEventListener('click', redirect => {
 document.querySelectorAll('.btn')[2].addEventListener('click', redirect => {
     location.href = 'https://github.com/Devendra4321/Amazon_clone'
 });
+
+document.querySelectorAll('.btn')[3].addEventListener('click', redirect => {
+    location.href = 'https://github.com/Devendra4321/Portfilo'
+});
